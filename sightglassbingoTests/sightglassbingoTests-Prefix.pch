@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'sightglassbingoTests' target in the 'sightglassbingoTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
