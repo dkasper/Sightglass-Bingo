@@ -3,7 +3,7 @@
 //  sightglassbingo
 //
 //  Created by David Kasper on 8/22/11.
-//  Copyright 2011 Yobongo. All rights reserved.
+//  Copyright 2011 David Kasper. All rights reserved.
 //
 
 
