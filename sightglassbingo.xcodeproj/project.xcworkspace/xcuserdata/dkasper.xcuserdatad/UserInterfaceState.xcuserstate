@@ -1233,10 +1233,10 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>337733878.58050197</real>
-		<string>{0, 2079}</string>
+		<real>337733988.47849202</real>
+		<string>{0, 2067}</string>
 		<false/>
-		<string>{1948, 0}</string>
+		<string>{1936, 0}</string>
 		<string>-tearDown</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
 		<dict>
@@ -2252,7 +2252,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>215</integer>
+					<integer>217</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2722,20 +2722,16 @@
 		<string>IDEBatchFindNavigatorSelectedRowIndexes</string>
 		<string>IDEBatchFindNavigatorFindMode</string>
 		<string>IDEBatchFindNavigatorCollapsedGroups</string>
-		<string>Copyright 2011 David Kasper</string>
-		<string>Copyright 2011 Yobongo</string>
+		<string>David Kasper</string>
+		<string>&lt;COPYRIGHT HOLDER&gt;</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>265</integer>
 			</dict>
-			<key>NSLength</key>
-			<integer>1</integer>
-			<key>NSLocation</key>
-			<integer>17</integer>
 			<key>NSRangeCount</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -8697,9 +8693,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>337733878.57757598</real>
-		<string>{0, 2079}</string>
-		<string>{1948, 0}</string>
+		<real>337733988.47557497</real>
+		<string>{0, 2067}</string>
+		<string>{1936, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10590,7 +10586,7 @@
 				<integer>859</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/main.m</string>
+		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/RootViewController.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10608,7 +10604,7 @@
 				<integer>861</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/GameSquare.m</string>
+		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/main.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10626,7 +10622,7 @@
 				<integer>863</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/GameSquare.h</string>
+		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/GameSquare.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10644,7 +10640,7 @@
 				<integer>865</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/constants.h</string>
+		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/GameSquare.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10662,7 +10658,7 @@
 				<integer>867</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/RootViewController.h</string>
+		<string>file://localhost/Users/dkasper/Programming/sightglassbingo/sightglassbingo/constants.h</string>
 	</array>
 	<key>$top</key>
 	<dict>
