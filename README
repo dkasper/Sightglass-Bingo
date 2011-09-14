@@ -1,0 +1,13 @@
+Instructions to customize for your own bingo app!
+
+1) Sign up for Parse! http://parse.com
+
+2) Set your parse key in Parse 3/PFConstants.h
+
+3) Create a class in parse called "Board" and add a key to it called "values". Store an array of strings containing the items you want to show up in the game board. You can set as many as you want, and they will be randomly picked and shuffled by the app on each new game.
+
+4) Change the graphics as you see fit
+
+5) ...
+
+6) Pour yourself a drink and enjoy.
